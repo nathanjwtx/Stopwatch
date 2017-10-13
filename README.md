@@ -1,2 +1,0 @@
-# Stopwatch
-Udemy course exercise

@@ -1,0 +1,42 @@
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/bin/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.deps.json
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/bin/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.runtimeconfig.json
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/bin/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.runtimeconfig.dev.json
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/bin/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.dll
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/bin/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.pdb
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/obj/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.csproj.CoreCompileInputs.cache
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/obj/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.AssemblyInfoInputs.cache
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/obj/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.AssemblyInfo.cs
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/obj/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.dll
+/home/nathan/OneDrive/Work - C Sharp/Intermediate/Section 2 Ex1 Stopwatch/obj/Debug/netcoreapp2.0/Section 2 Ex1 Stopwatch.pdb
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.AssemblyInfoInputs.cache
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.AssemblyInfo.cs
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.dll
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.pdb
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.deps.json
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.runtimeconfig.json
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.runtimeconfig.dev.json
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.dll
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.pdb
+C:\Users\watenatj\OneDrive\Work - C Sharp\Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.deps.json
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.runtimeconfig.json
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.runtimeconfig.dev.json
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.dll
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.pdb
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.AssemblyInfoInputs.cache
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.AssemblyInfo.cs
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.dll
+C:\Users\watenatj\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.pdb
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.deps.json
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.runtimeconfig.json
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.runtimeconfig.dev.json
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.dll
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.pdb
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.AssemblyInfoInputs.cache
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.AssemblyInfo.cs
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.dll
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.pdb

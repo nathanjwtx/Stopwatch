@@ -1,0 +1,33 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Nathan - User\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
+    "projectName": "Section 2 Ex1 Stopwatch",
+    "projectPath": "C:\\Users\\Nathan - User\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
+    "outputPath": "C:\\Users\\Nathan - User\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\watenatj\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
+      "projectUniqueName": "C:\\Users\\watenatj\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
       "projectName": "Section 2 Ex1 Stopwatch",
-      "projectPath": "C:\\Users\\watenatj\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
+      "projectPath": "C:\\Users\\watenatj\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
       "packagesPath": "C:\\Users\\watenatj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\watenatj\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\obj\\",
+      "outputPath": "C:\\Users\\watenatj\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\Stopwatch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

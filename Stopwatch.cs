@@ -1,30 +1,28 @@
 ﻿using System;
+using System.Reflection.Metadata.Ecma335;
+using System.Runtime.CompilerServices;
 
 namespace Stopwatch
 {
     public class Stopwatch
     {
-        private DateTime StartTime { get; set; }
+        private DateTime _start { get; set; }
+        private DateTime _stop { get; set; }
 
-        private bool Started { get; set; }
-
-        public void StartStopwatch()
+        public void StartClock()
         {
-            Started = true;
-            this.StartTime = StartTime;
+            this._start = DateTime.Now;
+            Console.WriteLine(_start);
         }
 
-        public DateTime TodaysDate => StartTime;
-
-        public int Stop
+        public int StopClock()
         {
-            get
-            {
-                Started = false;
-                var stoptime = DateTime.Now;
-                var timespan = stoptime - StartTime;
-                return Convert.ToInt32(timespan.Seconds);
-            }
+            this._stop = DateTime.Now;
+            Console.WriteLine(_stop);
+            Console.WriteLine(_start);
+            var span = _stop.Subtract(_start);
+            return span.Seconds;
         }
+        
     }
 }

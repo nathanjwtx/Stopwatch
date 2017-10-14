@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Nathan - User\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Section 2 Ex1 Stopwatch.713497462.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch" t="IncludeRecursive">
+    <e p="C:\Users\Nathan - User\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Section 2 Ex1 Stopwatch.-1842392017.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -13,6 +14,7 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
+      <e p="README.md" t="Include" />
       <e p="Section 2 Ex1 Stopwatch.csproj" t="IncludeRecursive" />
       <e p="Section 2 Ex1 Stopwatch.sln" t="IncludeFlat" />
       <e p="Stopwatch.cs" t="Include" />

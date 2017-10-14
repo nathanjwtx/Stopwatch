@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Nathan - User\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
+    "projectUniqueName": "C:\\Users\\Nathan - User\\OneDrive\\Work - C Sharp\\C-Sharp Rider Projects\\Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
     "projectName": "Section 2 Ex1 Stopwatch",
-    "projectPath": "C:\\Users\\Nathan - User\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
-    "outputPath": "C:\\Users\\Nathan - User\\OneDrive\\Work - C Sharp\\01 Udemy - Mosh Intermediate\\Section 2 Ex1 Stopwatch\\obj\\",
+    "projectPath": "C:\\Users\\Nathan - User\\OneDrive\\Work - C Sharp\\C-Sharp Rider Projects\\Stopwatch\\Section 2 Ex1 Stopwatch.csproj",
+    "outputPath": "C:\\Users\\Nathan - User\\OneDrive\\Work - C Sharp\\C-Sharp Rider Projects\\Stopwatch\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.0"

@@ -40,3 +40,14 @@ C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Sect
 C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.AssemblyInfo.cs
 C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.dll
 C:\Users\Nathan - User\OneDrive\Work - C Sharp\01 Udemy - Mosh Intermediate\Section 2 Ex1 Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.pdb
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.deps.json
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.runtimeconfig.json
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.runtimeconfig.dev.json
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.dll
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\bin\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.pdb
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.AssemblyInfoInputs.cache
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.AssemblyInfo.cs
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.dll
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.pdb
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\Stopwatch\obj\Debug\netcoreapp2.0\Section 2 Ex1 Stopwatch.csprojResolveAssemblyReference.cache
